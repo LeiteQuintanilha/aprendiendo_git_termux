@@ -10,3 +10,5 @@ r = a*b
 print(f'el resultado es {r}')
 
 print('desde main')
+
+print('hay conflito')
