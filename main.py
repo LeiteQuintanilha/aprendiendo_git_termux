@@ -2,7 +2,7 @@ import os
 import sys
 import modulo
 
-num1 = 5
+num0 = 5
 num2 = 10
 result = num1 * num2
 
